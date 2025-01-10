@@ -25,3 +25,4 @@ Fix broken link
 Update configuration
 Fix bug in feature X
 Fix typo in README
+Tweak margin and padding
