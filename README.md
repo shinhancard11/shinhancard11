@@ -24,3 +24,4 @@ Update API endpoint
 Fix broken link
 Update configuration
 Fix bug in feature X
+Fix typo in README
