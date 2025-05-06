@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Remove unused imports
 Change theme color
 Optimize loop
+Fix typo in README
