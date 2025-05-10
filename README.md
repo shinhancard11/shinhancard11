@@ -19,3 +19,4 @@ Change theme color
 Optimize loop
 Fix typo in README
 Optimize loop
+Fix typo in README
