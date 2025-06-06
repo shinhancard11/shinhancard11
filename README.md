@@ -28,3 +28,4 @@ Fix typo in README
 Tweak margin and padding
 Improve logging
 Fix broken link
+Update dependencies
