@@ -18,3 +18,4 @@ Remove unused imports
 Change theme color
 Optimize loop
 Fix typo in README
+Optimize loop
